@@ -1,5 +1,9 @@
 package day11;
 
+/**
+ *  最长回文子串 5
+ */
+
 public class LongestPalindrome {
     public String longestPalindrome(String s) {
         if( s.length()<=1){
